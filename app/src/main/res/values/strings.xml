@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Donation</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="loginbutton_text">Login</string>
+    <string name="signup_text">Sign Up!</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="email_text">Email</string>
+    <string name="confirm_text">Confirm Password</string>
+    <string name="signupbutton_text">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter a username, email, password and confirm password correct! </string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please make sure you enter a username and password! </string>
+    <string name="login_error_title">Oops!</string>
+    <string name="logout_menu">Logout</string>
+    <string name="title_section1">Donor List</string>
+    <string name="title_section2">Recipient List</string>
+    <string name="title_post">FoodPost</string>
+    <string name="empty_donor_list">No new Donors!</string>
+    <string name="empty_recipient_list">No new Recipients!</string>
+    <string name="donor_radio_lable">I am a Donor organization</string>
+    <string name="recipient_radio_lable">I am a Recipient organization</string>
+    <string name="address_hint">Address</string>
+    <string name="name_hint">Organization Name</string>
+    <string name="zipcode_hint">Zip Code</string>
+    <string name="phone_hint">Phone</string>
+    <string name="numpeople_hint">Approximate People</string>
+    <string name="post_submit_text">Submit</string>
+    <string name="title_activity_food_posting">FoodPosting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="posting_menu">Food Post</string>
+    <string name="submit_error_message">Please make sure you enter all the fields correct!</string>
+    <string name="submit_success">Your post is submitted successfully!</string>
+    <string name="submit_success_title">Submitted!</string>
+    <string name="posting_home">Home</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
